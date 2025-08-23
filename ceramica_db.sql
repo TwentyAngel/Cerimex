@@ -397,8 +397,7 @@ CREATE TABLE `usuarios` (
 
 INSERT INTO `usuarios` (`id`, `nombre`, `email`, `contrasena`, `fecha_registro`, `ultima_sesion`) VALUES
 (1, 'Angel Salinas Perez', 'angeldesingscontact@gmail.com', '$2y$12$zkij./D1rMt8nt6DTnOCku5npuiE7GczSaz8mPdSgnCcr6PT49lcC', '2025-06-01 04:17:07', '2025-06-05 22:27:45'),
-(2, 'ranal', 'ranal@gmail.com', '$2y$12$4wOaK9z68EzHeGY8CvACvu2r0u48sX7tp2wkfmOBoBtDtt6Z9Xeta', '2025-06-04 02:33:57', '2025-06-04 02:34:08'),
-(3, 'Benito Camelo', 'elcogelon@gmail.com', '$2y$12$8sSqUEE0W3x71pDeKgc9eue31egR3b76ceaTPBxMW/Ggauy8AlZLy', '2025-08-22 03:18:02', '2025-08-22 03:18:13');
+(2, 'ranal', 'ranal@gmail.com', '$2y$12$4wOaK9z68EzHeGY8CvACvu2r0u48sX7tp2wkfmOBoBtDtt6Z9Xeta', '2025-06-04 02:33:57', '2025-06-04 02:34:08');
 
 --
 -- Índices para tablas volcadas
